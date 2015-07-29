@@ -1,0 +1,6 @@
+{
+    "name": "Generator/PID Controller & Oscilloscope",
+    "version": "0.92-BUILD_NUMBER",
+    "revision": "REVISION",
+    "description": "A two channel waveform generator/A 2x2 MIMO PID controller with integrated two channel time domain signal visualization system."
+}
